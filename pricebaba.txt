@@ -1,6 +1,4 @@
-false
-Msg:
-App Disabled by me because you're misusing it.
+true
 
 6cddec133fc47151f0a6bbd9be754e538f0679ab
 65fdeab2a4533106b6a9620af43c3b86
